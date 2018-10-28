@@ -1,3 +1,6 @@
+# Prevent leaks
+tokens.json
+
 # Logs
 logs
 *.log
